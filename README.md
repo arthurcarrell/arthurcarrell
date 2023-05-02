@@ -5,4 +5,4 @@ I'm not the best but I upload stuff that I've worked on / am working on here!
 
 ---
 I know these languages:  
-![JS logo](js_logo.png, "Javascript")
+![JS logo](js_logo.png "Javascript")
