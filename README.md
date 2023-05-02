@@ -5,4 +5,5 @@ I'm not the best but I upload stuff that I've worked on / am working on here!
 
 ---
 I know these languages:    
+  
 <img src="js_logo.png" alt="Javascript" width="112" height="112">
