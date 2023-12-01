@@ -1,6 +1,1 @@
-# Hello!
-
-I'm Arthur Carrell and this is where ive been working on some projects that intrest me.  
-I'm not the best but I upload stuff that I've worked on / am working on here!
-
-<img src="langs_i_can_write.png">
+[Arthur's Github Stats](https://github-readme-stats.vercel.app/api?username=arthurcarrell)](https://github.com/anuraghazra/github-readme-stats)
